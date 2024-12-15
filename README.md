@@ -1,11 +1,8 @@
-# Привет, я Alex94a!
+<!-- Пример с стилизованным счётчиком просмотров -->
+![Views](https://img.shields.io/badge/Views-999%2C999%2C999-brightgreen?style=for-the-badge&label=Total%20Views)
 
-# Привет, я Alex94a!
-
-<!-- 1. Количество просмотров профиля с кастомным стилем -->
-
-![Profile Views](https://img.shields.io/badge/Views-1%2C234%2C567-brightgreen?style=flat-square&labelColor=1e1e1e&color=4cbb17&logo=github&logoColor=white&label=Profile)
-
+<!-- Пример с динамическим отображением информации через Shields.io -->
+![Profile Views](https://komarev.com/ghpvc/?username=Alex94a&style=for-the-badge&color=blue&label=Profile%20Views)
 
 
 <!-- 2. Статистика GitHub -->
