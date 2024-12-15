@@ -59,3 +59,66 @@
 
 <!-- 20. Совмещение всех достижений -->
 ![All Achievements](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alex94a&theme=radical)
+
+# Привет, я Alex94a!
+
+<!-- 21. Количество наблюдаемых репозиториев -->
+![Watched Repos](https://img.shields.io/github/watchers/Alex94a/your-repository-name?style=flat-square)
+
+<!-- 22. Количество открытых issue в репозитории -->
+![Open Issues](https://img.shields.io/github/issues/open/Alex94a/your-repository-name?style=flat-square)
+
+<!-- 23. Количество закрытых issue в репозитории -->
+![Closed Issues](https://img.shields.io/github/issues-closed/Alex94a/your-repository-name?style=flat-square)
+
+<!-- 24. Количество пользователей, смотрящих за репозиторием -->
+![Subscribers](https://img.shields.io/github/watchers/Alex94a/your-repository-name?style=flat-square&label=Subscribers)
+
+<!-- 25. Количество контрибьюторов в репозитории -->
+![Contributors](https://img.shields.io/github/contributors/Alex94a/your-repository-name?style=flat-square)
+
+<!-- 26. Количество открытых Pull Requests -->
+![Open PRs](https://img.shields.io/github/issues-pr/Alex94a/your-repository-name?style=flat-square)
+
+<!-- 27. Количество закрытых Pull Requests -->
+![Closed PRs](https://img.shields.io/github/issues-pr-closed/Alex94a/your-repository-name?style=flat-square)
+
+<!-- 28. Подсчет ошибок в репозиториях (например, с использованием linting) -->
+![Errors](https://img.shields.io/badge/Errors-None-brightgreen)
+
+<!-- 29. Статистика активности по коммитам (с помощью GitHub Contributions) -->
+![GitHub Contributions](https://contrib.rocks/image?repo=Alex94a)
+
+<!-- 30. Прогресс по репозиторию (например, использование GitHub Projects) -->
+![Repository Progress](https://img.shields.io/github/project/board/Alex94a/your-repository-name?style=flat-square)
+
+<!-- 31. Дата последнего коммита в репозитории -->
+![Last Commit](https://img.shields.io/github/last-commit/Alex94a/your-repository-name?style=flat-square)
+
+<!-- 32. Уровень активности на GitHub -->
+![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language-card?username=Alex94a&theme=radical)
+
+<!-- 33. Сравнение с другими пользователями (например, кончертный рейтинг) -->
+![Comparison](https://github-profile-comparison.vercel.app/?username1=Alex94a&username2=other-user)
+
+<!-- 34. Количество релизов в репозитории -->
+![Releases](https://img.shields.io/github/release/Alex94a/your-repository-name?style=flat-square)
+
+<!-- 35. Достижения (например, сертификаты или отличия) -->
+![Achievements](https://img.shields.io/badge/Achievements-4-brightgreen)
+
+<!-- 36. Количество проектов на GitHub -->
+![Projects](https://img.shields.io/github/repo-size/Alex94a/your-repository-name?style=flat-square)
+
+<!-- 37. Количество коммитов за последний месяц -->
+![Commits This Month](https://img.shields.io/github/commit-activity/m/Alex94a?style=flat-square)
+
+<!-- 38. Общее количество строк кода в репозиториях -->
+![Lines of Code](https://img.shields.io/github/languages/code-size/Alex94a/your-repository-name?style=flat-square)
+
+<!-- 39. Количество выпусков и версий проекта -->
+![Releases Count](https://img.shields.io/github/release-count/Alex94a/your-repository-name?style=flat-square)
+
+<!-- 40. Подсчет количества клонов репозитория -->
+![Clones](https://img.shields.io/github/clone-count/Alex94a/your-repository-name?style=flat-square)
+
