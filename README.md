@@ -6,6 +6,3 @@
 
 <!-- Streak Stats -->
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Alex94a&theme=radical)
-
-<!-- Contribution Graph -->
-![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Alex94a&theme=radical)
