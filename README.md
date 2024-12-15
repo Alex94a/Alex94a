@@ -1,7 +1,12 @@
 # Привет, я Alex94a!
 
-<!-- 1. Количество просмотров профиля -->
-![Profile Views](https://komarev.com/ghpvc/?username=Alex94a)
+# Привет, я Alex94a!
+
+<!-- 1. Количество просмотров профиля с кастомным стилем -->
+
+![Profile Views](https://img.shields.io/badge/Views-1%2C234%2C567-brightgreen?style=flat-square&labelColor=1e1e1e&color=4cbb17&logo=github&logoColor=white&label=Profile)
+
+
 
 <!-- 2. Статистика GitHub -->
 ![Alex94a's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alex94a&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
