@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=Alex94a)
 <!-- GitHub Profile Views -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Alex94a)
 
