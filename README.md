@@ -13,4 +13,4 @@
 ---
 
 ### Visitor Count
-![Visitors](https://profile-counter.glitch.me/google-automation-hub/count.svg)
+![Visitors](https://profile-counter.glitch.me/Alex94a/count.svg)
